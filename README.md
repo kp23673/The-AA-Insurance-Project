@@ -18,7 +18,8 @@ The AA Insurance Project to analyze customer renewal patterns and performance me
   - **Optimize strategies** for retaining customers  
   - **Enhance team performance**  
   - **Align discounts and pricing** with customer preferences  
-  - **Drive higher renewal rates and long-term loyalty**  
+  - **Drive higher renewal rates and long-term loyalty**
+    
 
 ## Save Rates and Discount Rates for June and July  
 
@@ -28,6 +29,7 @@ The AA Insurance Project to analyze customer renewal patterns and performance me
   - **Higher discounts**  
   - **A favorable customer mix**  
   - **Effective retention strategies**
+
     
 ## Highest and Lowest Performing Teams and Agents (Save Rate) – June & July  
 
@@ -44,6 +46,7 @@ The AA Insurance Project to analyze customer renewal patterns and performance me
     - **Customer engagement**  
     - **Objection handling**  
     - **Renewal follow-ups**
+
    
 ## Impact of Change in Tenure Mix – July vs. June  
 
@@ -67,6 +70,7 @@ The AA Insurance Project to analyze customer renewal patterns and performance me
 - **Investigate declines in the 5-month tenure group** for possible issues (e.g., **product dissatisfaction, lack of communication**).  
 - **Regularly analyze tenure-based trends** to ensure strategies remain **adaptive** to shifts in customer behavior.  
 
+
 ## Factors Impacting Save Rates Month to Month  
 
 - **Customer Behavior**:  
@@ -85,6 +89,7 @@ The AA Insurance Project to analyze customer renewal patterns and performance me
 
 - **Payment Type**:  
   - **Automatic payments** tend to lead to **higher renewal rates** compared to manual payments.  
+
 
 ## General Understanding from This Task  
 
