@@ -1,135 +1,96 @@
-# The-AA-Insurance-Project
-The AA Insurance Project to analyze customer renewal patterns and performance metrics.
+# 🔍 The AA Insurance Power BI Project  
 
+## 🏢 About the Company  
+**The AA Insurance Company** is a leading provider in the insurance industry, specializing in **customer retention and renewal strategies**. The company is committed to:  
+✅ **Enhancing customer experience**  
+✅ **Optimizing team performance**  
+✅ **Aligning pricing strategies for long-term loyalty**  
 
-## About the Company
-The AA Company is a leading insurance provider focused on customer retention and renewal strategies. The company is committed to optimizing its customer experience, enhancing team performance, and aligning its pricing strategies to encourage long-term loyalty. Through detailed analysis of renewal patterns, the company aims to continuously improve save rates and customer satisfaction.
+By analyzing **renewal patterns and customer behavior**, The AA Company aims to **improve save rates and customer satisfaction**.  
 
+---
 
-## Objectives  
+## 🎯 Project Objectives  
+The primary goal of this project is to **analyze customer renewal patterns** and **performance metrics** with a focus on:  
+- 📊 **Improving save rates**  
+- 🎯 **Understanding discount utilization**  
+- 🤝 **Identifying key factors influencing customer retention**  
 
-- The primary objective of this project is to **analyze customer renewal patterns** and **performance metrics** for **The AA Company**, with a focus on:  
-  - **Improving save rates**  
-  - **Understanding discount utilization**  
-  - **Identifying key factors influencing customer retention**  
+### 🔎 How This Was Achieved:
+✅ **Save Rate & Discount Rate Analysis**: Comparing performance across different months.  
+✅ **Team & Agent Performance Evaluation**: Identifying high & low performers.  
+✅ **Tenure Mix Impact Analysis**: Examining renewal rates based on customer tenure.  
+✅ **Customer Behavior Trends**: Understanding factors influencing monthly renewal fluctuations.  
 
-- This involves:  
-  - Calculating and comparing **save rates** and **discount rates** for specific months  
-  - Evaluating **team and agent performance**  
-  - Analyzing the impact of **tenure mix** on renewals  
-  - Identifying **month-to-month changes** in customer behavior  
+---
 
-- The insights derived from this analysis aim to help the company:  
-  - **Optimize strategies** for retaining customers  
-  - **Enhance team performance**  
-  - **Align discounts and pricing** with customer preferences  
-  - **Drive higher renewal rates and long-term loyalty**
-    
+## 📊 Key Insights  
 
-## Save Rates and Discount Rates for June and July  
+### 📌 **Save Rates & Discount Rates – June vs. July**  
+📈 **July had slightly higher save and discount rates** → Indicating that **discounts encourage renewals**.  
+📉 **July outperformed the full dataset average** → This suggests a **favorable customer mix and effective retention strategies**.  
 
-- **July** showed **slightly higher save rates and discount rates**, suggesting that **offering more discounts** might have encouraged renewals.  
-- The **save rate for the full dataset** is an **average** that includes months with both **higher and lower performance**, whereas the **save rate for July** reflects only a **specific, better-performing period**.  
-- **July's performance** likely benefited from factors such as:  
-  - **Higher discounts**  
-  - **A favorable customer mix**  
-  - **Effective retention strategies**
+### 📌 **Top & Bottom Performing Teams & Agents**  
+🏆 **Best performers (High save rates)** → **Team24, Agent47, Agent244** → Can **mentor & train** other teams.  
+⚠️ **Low performers (Low save rates)** → **Team22, Agent100** → Need **targeted training** in **customer engagement & objection handling**.  
 
-    
-## Highest and Lowest Performing Teams and Agents (Save Rate) – June & July  
+### 📌 **Tenure Mix Impact – July vs. June**  
+- **Long-tenured customers (20 months) increased from 24.40% to 26.54%** → Suggesting **higher renewal rates in loyal customers**.  
+- **Newer customers (1–2 months) declined** → Indicates **challenges in early retention**.  
+- **5-month tenure group also dropped** → Possible **dissatisfaction or lack of engagement**.  
 
-### **Actionable Findings**  
-- **High performers** can share strategies.  
-- **Low performers** may need training or additional support.  
+### 📌 **Factors Affecting Save Rates (Month-to-Month Trends)**  
+📍 **New customers** are **more price-sensitive** & need **extra engagement**.  
+📍 **Discounts** encourage renewals but should be **monitored for profitability**.  
+📍 **Skilled agents & strong customer service teams** drive **higher save rates**.  
+📍 **Economic conditions & competition** impact **renewal behavior**.  
+📍 **Automatic payments** improve **renewal likelihood**.  
 
-### **Recommendations**  
-- **Top-performing teams and agents**:  
-  - **Teams like Team24** and **agents like Agent47 / Agent244** can share their techniques and strategies through **workshops or mentoring sessions**.  
+---
 
-- **Low-performing teams and agents**:  
-  - **Teams like Team22** and **agents like Agent100** should receive **targeted training** on:  
-    - **Customer engagement**  
-    - **Objection handling**  
-    - **Renewal follow-ups**
+## 🔥 Recommendations  
 
-   
-## Impact of Change in Tenure Mix – July vs. June  
+✅ **Leverage High-Performing Teams & Agents**  
+- **Team24, Agent47, Agent244** → Conduct **training workshops** to share best practices.  
 
-### **Impact**  
-- The **Tenure Mix Comparison** between **June and July** reveals **notable shifts** in the distribution of customer tenure.  
-- **Customers with a tenure of 20 months** represent the **largest segment**, increasing from **24.40% in June to 26.54% in July** (**+2.14% growth**).  
-  - This suggests that **long-tenured customers** may be **renewing at a higher rate** or **new renewals** are concentrated in this group.  
-- **Declines in newer customers**:  
-  - **1-month tenure**: **-1.13%**  
-  - **2-month tenure**: **-0.81%**  
-  - Indicates **potential challenges in retaining newer customers**.  
-- **5-month tenure** group saw a **slight drop** (**-0.64%**), while other mid-tenure customers remained **relatively stable**.  
-- These changes highlight a **need for tailored strategies** to:  
-  - **Engage newer customers**  
-  - **Maintain loyalty among longer-tenured customers**  
+✅ **Support Low-Performing Teams & Agents**  
+- **Team22, Agent100** → Provide **targeted training** in **objection handling & customer engagement**.  
 
+✅ **Improve Retention of 1–2 Month Tenure Customers**  
+- **Early engagement strategies** → Personalized offers, better onboarding, and proactive communication.  
 
-## Factors Impacting Save Rates Month to Month  
+✅ **Sustain Long-Tenured Customer Loyalty**  
+- **Rewards & exclusive benefits** → Incentivize continued renewals.  
 
-- **Customer Behavior**:  
-  - **New customers** are typically **more price-sensitive**.  
-  - **Long-term customers** tend to be **more loyal** and renew at higher rates.  
+✅ **Investigate Declines in 5-Month Tenure Group**  
+- Conduct **customer feedback surveys** to identify **potential dissatisfaction reasons**.  
 
-- **Discounts**:  
-  - **Higher discounts** can **encourage renewals**, but **over-dependence** may reduce profitability.  
+---
 
-- **Agent Performance**:  
-  - **Skilled agents** and **efficient teams** drive **higher save rates**.  
-  - Performance variations among teams can impact month-to-month trends.  
+## 🏆 Skills Learned & Stakeholder Impact  
 
-- **External Factors**:  
-  - **Economic conditions**, **competitor actions**, and **natural events** can influence customer decisions.  
+### **🔧 Skills Acquired**  
+✅ **Customer Behavior Analysis** → Understanding short-term vs. long-term renewal trends.  
+✅ **Data-Driven Decision Making** → Using analytics to guide retention strategies.  
+✅ **Retention Strategy Design** → Developing engagement tactics for at-risk customers.  
+✅ **Performance Evaluation** → Identifying areas for agent/team improvement.  
 
-- **Payment Type**:  
-  - **Automatic payments** tend to lead to **higher renewal rates** compared to manual payments.  
+### **🎯 Usefulness for Stakeholders**  
 
+| **Stakeholder** | **Benefits** |
+|----------------|-------------|
+| 📊 **Marketing & Sales Teams** | Optimizes **discount strategies** for maximum renewals **without revenue loss**. |
+| 🏆 **HR & Training Departments** | Identifies **agent/team performance gaps** for **targeted training**. |
+| 🤝 **Customer Service & Retention Teams** | Improves **engagement with short-tenured customers** to **boost retention rates**. |
 
-## General Understanding from This Task  
+---
 
-- **Trends**:  
-  - **Save rates improve** with **higher discounts** and **better service**.  
+## 📌 Conclusion  
+This **Power BI-driven analysis** of **customer renewal patterns** provides valuable insights into:  
+✅ **Save rates & discount effectiveness**  
+✅ **High-performing vs. low-performing agents**  
+✅ **Customer behavior trends & tenure-based renewals**  
 
-- **Performance Insights**:  
-  - **Exceptional agents and teams** stand out due to their **effective strategies**.  
-  - **Poor performers** may need **additional support and training**.  
+By leveraging **data-driven retention strategies**, The AA Insurance Company can **increase customer loyalty, optimize pricing, and drive profitability**. 🚀📊  
 
-- **Customer Behavior**:  
-  - **Long-tenured customers** tend to be **more loyal**.  
-  - **Short-tenured customers** require **more attention and engagement** to improve retention.  
-
-- **Monthly Changes**:  
-  - **External factors**, **pricing strategies**, and **customer service** all contribute to **month-to-month fluctuations in save rates**.
-
-## Recommendations
-
-- **Top-performing teams and agents**:  
-  - **Teams like Team24** and **agents like Agent47 / Agent244** should share their techniques and strategies through **workshops or mentoring sessions** to improve overall performance across the company.
-  
-- **Low-performing teams and agents**:  
-  - **Teams like Team22** and **agents like Agent100** should receive **targeted training** on **customer engagement**, **objection handling**, and **renewal follow-ups** to improve save rates and overall performance.
-
-- **Develop targeted onboarding and engagement strategies** for **1–2 month tenure customers** to improve retention and increase renewal rates in newer customer segments.
-
-- **Enhance follow-ups and rewards** for **long-tenured customers** to sustain their loyalty and ensure continued renewals.
-
-- **Investigate declines in the 5-month tenure group** and address possible issues such as **product dissatisfaction** or **lack of communication**.
-
-## Skills Learned and Their Usefulness for Stakeholders
-
-### Skills Learned:
-1. **Customer Behavior Analysis**: Understanding the tendencies of long-term vs. short-term customers enables tailored strategies for engagement.
-2. **Data-driven Decision Making**: By evaluating save rates, discounts, and team performance, I can identify trends and actionable insights that can help improve strategies.
-3. **Retention Strategy Design**: Creating specific action plans for high-risk customer segments, particularly newer customers and mid-tenure groups.
-4. **Team and Agent Performance Evaluation**: Recognizing the need for targeted training for low-performing agents and teams, while encouraging knowledge-sharing among high performers.
-
-### Usefulness for Stakeholders:
-- **Marketing & Sales Teams**: These skills help to optimize discount strategies, ensuring the right discounts are offered to the right customer segments to improve renewals without sacrificing profitability.
-- **HR & Training Departments**: Identifying performance gaps among agents and teams allows HR to provide focused training and support.
-- **Customer Service & Retention Teams**: By analyzing customer tenure and behavior, I can help these teams develop more effective retention strategies, ensuring customer satisfaction and long-term loyalty.
-
-
+---
